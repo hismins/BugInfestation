@@ -6,7 +6,6 @@ import java.util.Scanner;
  *This class and method is to compute population of roaches and their volume concerning time.
  *First enter the total volume of your house, and Enter the estimated number of roaches at now.
  *then it will compute when your house will be filled, how many roaches will live, and how much volume are roaches.
- *why... why are there no staged file...
  **/
 
 public class BugInfestation { //name of class is BugInsfestation.
